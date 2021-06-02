@@ -1,0 +1,2 @@
+repayment_id,loan_id,repayment_amount,loan_repayment_method_id,repayment_collected_date,collector_id,loan_do_not_adjust_remaining_pro_rata,repayment_adjust_remaining_schedule,repayment_manual_composition,principal_repayment_amount,interest_repayment_amount,fees_repayment_amount,penalty_repayment_amount,repayment_description
+6288587,1300323,4000.00,63208,14/02/2020,21195,0,0,0,2735.34,600.00,178.33,486.33,
