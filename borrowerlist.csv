@@ -1,0 +1,51 @@
+borrower_id,borrower_country,borrower_fullname,borrower_firstname,borrower_lastname,borrower_business_name,borrower_unique_number,borrower_gender,borrower_title,borrower_mobile,borrower_email,borrower_dob,borrower_address,borrower_city,borrower_province,borrower_zipcode,borrower_landline,borrower_working_status,borrower_credit_score,borrower_description,borrower_access_ids,borrower_photo,custom_field_5819,custom_field_5820,custom_field_5821,custom_field_5822,custom_field_5823,custom_field_5824,custom_field_6985,custom_field_7080,custom_field_7102,custom_field_7103,custom_field_7104,custom_field_7106
+1164144,BW,,Patrick,Johnson,,1000001,Male,1,0984448008,pat3228@gmail.com,03/11/1980,Plot 900291,Gaborone,,102449,,Government Employee,,,{'1': '20560'},,,,,,,,,,,,,
+1165388,BW,,CHIMILO,MOSHOESHOE II,,1000004,Male,1,,,07/05/1985,,,,,,,,,[],,,,,,,,,,,,,
+1165391,BW,,SELLO AUPA,SEKOLO,,1000005,Male,1,,,13/02/1957,,,,,,,,,[],,,,,,,,,,,,,
+1165393,BW,,GAONE M,MASALILA,,1000006,Male,1,,,08/04/1975,,,,,,,,,[],,,,,,,,,,,,,
+1165394,BW,,KEBATSHABILE,MOREBUDI,,1000007,Female,3,,,20/04/1983,,,,,,,,,[],,,,,,,,,,,,,
+1165397,BW,,MMOLOKI,MOFFAT,,1000008,Female,2,,,03/02/1967,,,,,,,,,[],,,,,,,,,,,,,
+1165398,BW,,THABISO,CHARLIE,,1000009,Male,1,,,23/08/1979,,,,,,,,,[],,,,,,,,,,,,,
+1165400,BW,,BOENYANA BOISE,BAETI,,1000010,Female,2,,,29/10/1982,,,,,,,,,[],,,,,,,,,,,,,
+1165401,BW,,ATLARELANG,RAMMAPUDI,,1000011,Female,3,,,13/05/1985,,,,,,,,,[],,,,,,,,,,,,,
+1168286,BW,,Restructure,Test,,1000012,Male,1,76642944,paul@deselle.co.za,,,,,,,,,,{'1': '20560'},,hg3875h,Employer,08184535,faihf,085371895,538956,,,,,,
+1168310,BW,,Test penalty,Lender,,1000013,,0,,,,,,,,,,,,[],,,,,,,,,,,,,
+1216911,BW,,John,Smith,,1000015,Male,1,0827004334,,,,,,,,,,,{'1': '20560'},,B938BHN,WATER UTILITIES CORPORATION,071123456,FELIPE SMITH,065533191,90855721,,,,,,
+1216925,BW,,Mary,Smith,,1000016,Female,2,,,,,,,,,,,,[],,B900JFK,NATIONAL PARKS BOARD,58309777,JOHN SMITH,085387155,91255734,,,,,,
+1251963,BW,,JIMMY,VAN ZYL,,1000017,Male,1,76642944,paul@deselle.co.BW,09/05/1976,jhbkjlm,jhbkjlm,jhgbhknlm,,,,,,{'1': '20560'},,CR52JFGP,IUHJLKJLKJ,3909306,IUJBJJL,76642944,7605095004080,,,,,,
+1257988,BW,,MOHAMED,SALAH,,1000018,Male,1,,,,,,,,,,,,{'1': '20560'},,B123ABC,UNITED BANK,072446657,BABA,029488757,809841747,,,,,,
+1257995,BW,,SADIO,MANE,,1000019,Male,1,,,,,,,,,,,,{'1': '20560'},,B223JHG,ALLIED BANK,072000982,DISHE,094855557,901222453,,,,,,
+1257999,BW,,ROBERTO,FIRMINO,,1000020,Male,1,,,,,,,,,,,,{'1': '20560'},,B991DRN,TRUST BANK,072200498,WALTER,07110084,900233118,,,,,,
+1258001,BW,,VIRGIL,VAN DYK,,1000021,Male,1,,,,,,,,,,,,{'1': '20560'},,B789HRW,PERMANENT BANK,084857757,JUBILEU,077004532,990945714,,,,,,
+1264026,BW,,TRENT,ALEXANDER-ARNOLD,,1000022,Male,0,07123457,,,,,,,,,,,{'1': '20560'},,B332DFG,Bank of Baroda,073000812,David Arnold,077837421,98800754,,,,,,
+1264027,BW,,ANDREW,ROBERTSON,,1000023,Male,0,,,,,,,,,,,,{'1': '20560'},,B221HHY,Habib Islamic Bank,072214573,Jack,0714450072,900017463,,,,,,
+1264029,BW,,ALISSON,BECKER,,1000024,Male,0,,igor@bumpsgroup.com,,,,,,,,,,{'1': '20560'},,B776BXN,Phakalane Estate,071884850,Harry Becker,071637392,91125570,Gaborone Main,zoho_igor246,Alfa Romeo,Alfasud,1979,100002
+1306607,BW,,BRUCE,GROBELAAR,,1000025,Male,1,,,,,,,,,Employee,,,{'1': '20560'},,B199FYT,Dept of Water,2237650,Jospeh Grobelaar,0826474885,987123654,,,,,,
+1306614,BW,,PETER,BEARDSLEY,,1000026,,0,,,,,,,,,,,,[],,B665BKL,Dept of Labour,6660981,Mandla,3324665,900212454,,,,,,
+1306670,BW,,GLEN,HYSEN,,1000027,,0,,,,,,,,,,,,[],,B308BNK,MINISTRY OF JUSTICE,3445571,Isabella,5041004,701444241,,,,,,
+1314121,BW,,Kevin,McDonald,,,Male,0,27832712348,baba@gmail.com,12/02/1986,,,,,,,,,[],,B665BHZ,900127889,Employer Name X,+27112367411,Monica,+27841004000,,,,,,
+1317867,BW,,DAVID,SHEEDY,,1000028,,0,,,,,,,,,,,,[],,B766HTG,FUTURE RPA,0118756578,JASON,6785638,757855563,,,,,,
+1320201,BW,,JASON,SUDEKIS,,1000029,,0,,,,,,,,,,,,[],,B009HLK,ALLIED BANK,58309777,WALTER,6670004,400050000,,,,,,
+1327212,ZA,,Rollover SMS Test,Jones,,1000030,Male,1,0832553439,,,,,,,,,,,{'1': '20560'},,SNG880GP,Bank Gaborone,08844662919,Harry,0123440475,5783928484,,,,,,
+1330163,BW,,KEMPHO,SANTSOMA,,1000031,Male,1,74137348,kempho@pawnit.co.bw,19/09/1986,plot 22931 phase 4,Gaborone,,,3909306,Private Sector Employee,,,{'1': '20560'},,b952bhp,pawn it,3909306,,,2525368862,,,,,,
+1332032,BW,,NIKLAS,BENDTNER,,1000032,Male,1,0740017475,,,,,,,,,,,[],,B908BLN,BANK GABORONE,77557789,KEVIN,774665751,999000432,Mogoditsane,,,,,
+1343979,BW,,Harvey,Barnes (Test New Staff Loan Fees),,1000033,Male,1,,,,,,,,,,,,[],,B551GGP,Water Utilities Corporation,3332289,Nora,84199973,991454666,Gaborone Main,,,,,
+1349095,BW,,David,Burger,,,Male,0,27841002300,dburger@doj.gov.bw,29/11/1978,,,,,,,,,[],,BA7222,Department of Justice,+27213305672,Maria Burger,+27724098675,900127877,Francistown,,,,,
+1349096,BW,,mike,Smith,,,Female,0,27811234567,,06/09/1985,,,,,,,,,[],,B123GHY,Youtube,+27760000212,Kevin,+2784866214,66316865,Francistown,,,,,
+1349103,BW,,Jack,Ma,,,Male,0,2675382345,test@test.com,21/10/1990,,,,,,,,,[],,BT 1234,Test Employer,+2675382345,sam,+2675382345,12345678,Francistown,,,,,
+1349893,BW,,John,Ma,,,Male,0,2675381234,test1@test.com,21/10/1980,,,,,,,,,[],,B0 2345,Test Employer,+2675381235,Goldberg,+2675381236,123456,Francistown,,,,,
+1351172,BW,,Mimi,Venter,,,Female,0,27826513137,,20/09/1980,,,,,,,,,[],,B777STP,MacDonald’s,+27415006580,Jenny Wilder,+27214561000,120005743,Francistown,zoho_igor246,,,,
+1351173,BW,,Willy,Nelson,,,Male,0,27832712346,,26/10/1982,,,,,,,,,[],,B998FTY,Nashville Records,+27736007332,Ian Zowie,+27841003600,912234564,Francistown,zoho_igor246,,,,
+1351174,BW,,Noah,Teague,,,Male,0,278327123479,,15/02/1985,,,,,,,,,[],,B223JJP,Harvard University,+27123267782,Jefferson Teague,+27315556362,084740013,Francistown,zoho_igor246,,,,
+1353913,BW,,Ursula,Matthews,,,Female,0,27832719999,,18/06/1986,,,,,,,,,[],,B665WTR,Department of Justice,+27124467780,Maria Matthews,+27318890009,911546777,Gaborone Main,zoho_igor246,,,,
+1353914,BW,,Frederick,Bester,,,Male,0,27810085472,,14/08/1997,,,,,,,,,[],,B880BDC,Department of Transport,+27652231478,Olga Bester,+27765569800,900127866,Gaborone Main,zoho_igor246,,,,
+1353932,BW,,Ollie,McBurnie,,,Male,0,27720998455,,02/03/1965,,,,,,,,,[],,BA72553,SARS,+27213358887,Kramer du Randy,+27416657889,883456212,Gaborone Main,zoho_igor246,Citroen,C2,2014,2024
+1370376,BW,,Mikayla,Badenhorst,,,Female,0,27607163887,mikayla.m.b0812@gmail.com,21/12/1984,,,,,,,,,[],,841221,ABSA,+27114224000,Alessandra,+27610795712,0712080136088,Gaborone Main,rriveragreen,Ford,Icon,2010,2026
+1370384,BW,,Isabella,Rivera Green,,,Female,0,27607164887,thecube0608@outlook.com,06/08/1979,,,,,,,,,[],,SNG880MP,FNB,+27124224000,Igor,+27832553439,1308060137088,Gaborone Main,paul_pawnit,Citroen,C4,2007,2027
+1391526,BW,,Jason,McAteer,,,Male,0,27832713333,,05/04/1984,,,,,,,,,[],,B332BDD,Ministry of Defence,+27841002665,AB de Villiers,+27825004549,912566654,Gaborone Main,zoho_igor246,Kia,Picanto,2015,2033
+1391529,BW,,Jared,Kushner,,,Male,0,27841002545,jkushner@whitehouse.gov,30/06/1984,,,,,,,,,[],,B003BBW,Department of Justice,+27738089114,Ivanka Trupm,+27840007773,900127890,Gaborone Main,zoho_igor246,BAIC,205,2017,2031
+1391545,BW,,Colin,Fairwood,,,Male,0,27725124000,,21/02/1985,,,,,,,,,"{'1': '24812', '2': '20560'}",,B331BGR,SS Dilopho High School,+27812247006,Harry Arter,+27845112580,901200545,Gaborone Main,paul_pawnit,Haval,H4,2018,2034
+1391546,BW,,James,Charles,,,Male,0,27826514448,,02/10/1994,,,,,,,,,[],,B665BAW,Ministry of defence,+27840003255,Ulysses Brown,+27810509999,909777656,Gaborone Main,rriveragreen,Mazda,6 2.5litre,2012,2032
+1393597,BW,,Joan,Arc,,,Female,0,27825667675,,20/06/1995,,,,,,,,,[],,B982ATL,The Insurance Company,+27115443002,Maria Matthews,+27214467098,900127897,Gaborone Main,zoho_igor246,Ford,Ranger,2018,2035
+1394192,BW,,Charles,Mountbatten,,,Male,0,27816513322,Chuck1948@gmail.com,29/01/1985,,,,,,,,,[],,B880BSG,Department of Education,+27821006530,Elizabeth mountbatten,+27315556462,998000243,Gaborone Main,paul_pawnit,Hero,Honda 332,2009,2036
+1400999,BW,,Jamal,Harris,,,Male,0,27820009877,,14/08/1947,,,,,,,,,[],,02CD04,Department of Justice,+27824409877,Matthew Harris,+27789998769,912375758,Gaborone Main,zoho_igor246,Jeep,Cherokee,2004,2037
