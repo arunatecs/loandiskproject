@@ -55,7 +55,7 @@ def display_values(res,item):
                                         'Pending Due','Total Due','Principal Due']
                                         )
         
-                        adjusted_loan_df.to_csv('adjusted_loan_'+str(item)+'.csv',index = None)
+                        adjusted_loan_df.to_csv('data/adjusted_loan_'+str(item)+'.csv',index = None)
 
 def main():
 

@@ -258,7 +258,7 @@ def display_values(res,loan_id):
                                             
                                             ])
 
-                    loan_df.to_csv('single_loan_'+str(loan_id)+'.csv',index=None)
+                    loan_df.to_csv('data/single_loan_'+str(loan_id)+'.csv',index=None)
   
        
 

@@ -49,7 +49,7 @@ def display_values(res,item):
                             loan_df = pd.DataFrame(data=loan_detail, columns=['LoanId', 'Date','Description',
                                         'Principal','Interest','Fees','Penalty','Due','Total Due','Principal Balance'])
            
-                            loan_df.to_csv('orginal_loan_'+str(item)+'.csv',index=None)
+                            loan_df.to_csv('data/orginal_loan_'+str(item)+'.csv',index=None)
 
 def main():
 

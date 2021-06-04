@@ -44,7 +44,7 @@ def display_values(res,repayment_id):
 
                         ])
 
-                        repayment_df.to_csv('single_repayment_'+str(repayment_id)+'.csv',index=None)
+                        repayment_df.to_csv('data/single_repayment_'+str(repayment_id)+'.csv',index=None)
   
        
 

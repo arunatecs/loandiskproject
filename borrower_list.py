@@ -206,7 +206,7 @@ def display_values(res):
                             
                         
 
-                    borrower_df.to_csv('borrowerlist.csv',index=None)
+                    borrower_df.to_csv('data/borrowerlist.csv',index=None)
                       
                    
         

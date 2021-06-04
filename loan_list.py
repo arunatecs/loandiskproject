@@ -263,7 +263,7 @@ def display_values(res):
                                             
                                             ])
 
-                    loan_df.to_csv('loanlist.csv',index=None)
+                    loan_df.to_csv('data/loanlist.csv',index=None)
     
 def main():
 

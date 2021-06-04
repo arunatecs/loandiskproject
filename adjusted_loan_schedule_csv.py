@@ -50,7 +50,7 @@ def display_values(res):
         adjusted_loan_df = pd.DataFrame(data=adjusted_loan_detail, columns=['LoanId', 'Date','Description',
                                     'Principal','Interest','Fees','Penalty','Due','Paid','Pending Due','Total Due','Principal Due'])
         
-        adjusted_loan_df.to_csv('adjusted_loan.csv')
+        adjusted_loan_df.to_csv('data/adjusted_loan.csv')
 
 
 def main():
